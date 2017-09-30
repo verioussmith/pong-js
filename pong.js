@@ -43,6 +43,8 @@ class Ball extends Rect
 	}
 }
 
+
+
 const canvas = document.getElementById('pong');
 const c = canvas.getContext('2d');
 
